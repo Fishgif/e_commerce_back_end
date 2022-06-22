@@ -5,11 +5,10 @@
  ![GitHub License Badge](https://shields.io/badge/license-MIT-green)
 
 
- ## [Deployed App](https://fishgif.github.io/Employee-Tracker/)
+ ## [Deployed App](https://fishgif.github.io/e_commerce_back_end/)
 
 ## Description
-This app is an easy way for a business to power an e commerce site and manage their inventory
-
+This app is an easy way for a business to power an E commerce site and manage their inventory.
 
 The challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
@@ -57,6 +56,6 @@ No testing was completed
 [Marc Fischer](https://github.com/Fishgif)
 
 ## Git Hub Repo
-Project Repository URL: (https://github.com/Fishgif/Employee-Tracker)
+Project Repository URL: (https://github.com/Fishgif/e_commerce_back_end)
 
 
