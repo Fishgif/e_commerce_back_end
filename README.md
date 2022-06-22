@@ -8,7 +8,7 @@
  ## [Deployed App](https://fishgif.github.io/Employee-Tracker/)
 
 ## Description
-This app is an easy way for a small business owner to keep track of all departments, roles and salaries of all his employees .
+This app is an easy way for a business to power an e commerce site and manage their inventory
 
 
 The challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
@@ -25,38 +25,29 @@ The challenge is to architect and build a solution for managing a company's empl
 The appropriate packages consists of 
 * npm i 
 * npm init
-* npm install inquirer
 * npm install mysql
-* npm install console.table
 
 ### Dependencies
-* const chalk = require("chalk");
 * const mysql = require("mysql");
-* const inquirer = require("inquirer");
+
 
 ### Database 
 employeeDB.sql
 seed.sql
 
 ## Usage
-As a business owner
-I want to be able to view and manage the departments, roles, and employees of my company.
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 
 ### Video
-[![a video walkthrough of the Employee-Tracker](./assets/images/home_screen.png)](https://www.youtube.com/watch?v=zzAQkON1fb4 "Employee-Tracker App")
+[![a video walkthrough of the E Commerce Back End ]](https://youtu.be/MfXLnMferWY "E - Commerce Back End")
 
-https://youtu.be/zzAQkON1fb4
-
-
-### Screenshot 1 - View all Departments
-![View all Departments](./assets/images/view_departments.png)
+https://youtu.be/MfXLnMferWY
 
 
-### Screenshot 2 - View all Roles 
-![View Roles](./assets/images/view_roles.png)
-
-### Screenshot 3 - View all Employees
-![Adding Department](./assets/images/view_departments.png)
+### Screenshot 1 - E Commerce
+![E Commerce](./assets/ecommerce.png)
 
 
 ## Testing
